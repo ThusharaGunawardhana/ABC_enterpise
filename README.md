@@ -31,6 +31,21 @@ This project is a **Business Analytics Dashboard** built using **JSP, Servlets, 
 
 ---
 
-## 🚀 **Installation & Setup**
-Follow these steps to set up the project on your local machine:
+✨ Future Enhancements
+
+✅ Add JWT Authentication
+
+✅ Implement Advanced Data Filters
+
+✅ Enhance UI with Modern CSS Frameworks
+
+
+💡 Contributing
+
+We welcome contributions! Feel free to fork the repository and create a pull request.
+
+📄 License
+This project is open-source under the MIT License.
+
+🤝 Connect with Me
  
